@@ -1,0 +1,3 @@
+#Mindkettoben van, de elsore hibat ad
+GT4500,10,1,10,0
+TORPEDO,SINGLE #Megprobal az elsobol,de hibat kap ezert nem probalja a masikat
