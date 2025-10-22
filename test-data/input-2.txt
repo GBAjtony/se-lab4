@@ -1,0 +1,3 @@
+#Mindkettoben van, nem ad hibat
+GT4500,10,0,10,0
+TORPEDO,ALL #Minkettobol kell hogy lojon
