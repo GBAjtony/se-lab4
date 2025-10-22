@@ -1,0 +1,4 @@
+#Elsodlegesbol lovunk ketszer
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE #Masodik ures ezert nem tud alternalodni
