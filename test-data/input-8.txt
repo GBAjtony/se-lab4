@@ -1,0 +1,3 @@
+#both empty, tries to fire all
+GT4500,0,0,0,0
+TORPEDO,ALL
